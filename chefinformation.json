@@ -1,0 +1,440 @@
+[
+  {
+    "id": "01",
+    "picture": "https://example.com/picture1.jpg",
+    "name": "Farhana Begum",
+    "bio": "Farhana is a Bangladeshi chef with over 10 years of experience in traditional Bengali cuisine. She is passionate about using fresh, local ingredients and incorporating bold flavors into her dishes.",
+    "experience": "10 years",
+    "numbers_of_recipes": 5,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 500
+  },
+  {
+    "id": "02",
+    "picture": "https://example.com/picture2.jpg",
+    "name": "Abdul Rahman",
+    "bio": "Abdul is a chef who specializes in fusion cuisine, combining flavors from his native Bangladesh with techniques and ingredients from around the world. He is known for his creative and innovative approach to cooking.",
+    "experience": "8 years",
+    "numbers_of_recipes": 3,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 400
+  },
+  {
+    "id": "03",
+    "picture": "https://example.com/picture3.jpg",
+    "name": "Nurul Islam",
+    "bio": "Nurul is a chef who has dedicated his career to preserving and promoting the culinary traditions of Bangladesh. He is a master of regional specialties and is passionate about sharing his knowledge and love of food with others.",
+    "experience": "6 years",
+    "numbers_of_recipes": 7,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 300
+  },
+  {
+    "id": "04",
+    "picture": "https://example.com/picture4.jpg",
+    "name": "Fatema Akhter",
+    "bio": "Fatema is a rising star in the world of Bangladeshi cuisine. She has a talent for creating dishes that are both visually stunning and delicious, and she is known for her inventive use of spices and herbs.",
+    "experience": "5 years",
+    "numbers_of_recipes": 6,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 250
+  },
+  {
+    "id": "05",
+    "picture": "https://example.com/picture5.jpg",
+    "name": "Abida Sultana",
+    "bio": "Abida is a chef who has a deep respect for the traditional dishes of Bangladesh, but also enjoys experimenting with new ingredients and techniques. She is known for her ability to create complex and nuanced flavors, and her dedication to perfecting every dish she makes.",
+    "experience": "3 years",
+    "numbers_of_recipes": 5,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 150
+  },
+  {
+    "id": "06",
+    "picture": "https://example.com/picture6.jpg",
+    "name": "Rafiqul Islam",
+    "bio": "Rafiqul is a chef who is committed to using sustainable, locally sourced ingredients in his cooking. He is passionate about creating dishes that are both healthy and delicious, and he believes that good food should be accessible to everyone.",
+    "experience": "2 years",
+    "numbers_of_recipes": 8,
+    "recipes": [
+        {
+            "name": "Chingri Malai Curry",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Green chili",
+              "Turmeric",
+              "Salt",
+              "Sugar",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and green chili. Add prawns and cook for 2-3 minutes. Add coconut milk, turmeric, salt and sugar, and cook until the gravy thickens. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Beef Bhuna",
+            "ingredients": [
+              "Beef",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cumin powder",
+              "Coriander powder",
+              "Turmeric",
+              "Chili powder",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add beef and cook until it changes color. Add cumin powder, coriander powder, turmeric, chili powder and salt, and cook until the beef is tender. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Mishti Doi",
+            "ingredients": [
+              "Milk",
+              "Sugar",
+              "Curd",
+              "Earthenware pot"
+            ],
+            "cooking_method": "Boil milk and let it cool. Mix curd and sugar with the milk and pour the mixture into earthenware pots. Keep the pots in a warm place for 4-5 hours, until the yogurt sets. Serve cold.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chicken Rezala",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Onion",
+              "Garlic",
+              "Ginger",
+              "Cinnamon",
+              "Cardamom",
+              "Bay leaf",
+              "Green chili",
+              "Salt",
+              "Oil"
+            ],
+            "cooking_method": "Heat oil in a pan and fry onion, garlic and ginger. Add chicken and cook until it changes color. Add yogurt, cinnamon, cardamom, bay leaf, green chili and salt, and cook until the chicken is tender. Serve hot.",
+            "rating": 4.6
+          }
+    ],
+    "likes": 100
+  }
+]
